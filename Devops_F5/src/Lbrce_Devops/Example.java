@@ -4,8 +4,8 @@ public class Example {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hello Erripooka");
-		System.out.println("Hello Erripooka2");
+		System.out.println("Hello Picchoda");
+		System.out.println("Hello Picchoda1");
 		
 		
 	}

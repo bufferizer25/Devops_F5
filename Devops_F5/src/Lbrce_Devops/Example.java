@@ -6,6 +6,7 @@ public class Example {
 		
 		System.out.println("Hello Picchoda");
 		System.out.println("Hello Picchoda1");
+		System.out.println("PAT is a must");
 	}
 
 }
